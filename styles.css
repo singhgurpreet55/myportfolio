@@ -1,0 +1,17 @@
+/* *{
+    background: #cb2323;
+} */
+
+h1{
+    text-align: center;
+    color: aqua;
+
+}
+
+
+.project{
+    background: pink;
+    padding:10px;
+    text-align: center;
+    color: rgb(35, 209, 183);
+}
